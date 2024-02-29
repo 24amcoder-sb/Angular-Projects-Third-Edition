@@ -2,7 +2,7 @@ repo_name: 24amcoder-sb/Angular-Projects-Third-Edition
 report_id: 48c5d6524c2e629b08d7e563fa093969
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:40:07+00:00'
+timestamp: '2024-02-29T18:47:50+00:00'
 requested_by: srishhty
 provider: github
 branch: main
@@ -243,7 +243,7 @@ tools:
   last_updated_by: Aristeidis Bampakos
   last_updated_on: 2023-06-01 20:10:43.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.8.8
   license: MIT
